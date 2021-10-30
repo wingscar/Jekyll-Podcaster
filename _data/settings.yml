@@ -9,7 +9,7 @@ pages:
 
 social:
   - {icon: 'instagram', type: "brand", link: '#'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/ArteLettura'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/nodrawing5'}
   - {icon: 'facebook', type: "brand", link: '#'}
   - {icon: 'youtube', type: "brand", link: '#'}  
   - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
