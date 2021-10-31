@@ -2,12 +2,12 @@
 title: "welcome to become jiaran's dogs"
 description: "jiaran's dog blog "
 podcast-description: "there are somethings about jiaran diana"
-url:  "https://jekyll-podcaster.netlify.app/" # Actual base url of the website
+url:  "https://windcar.netlify.app/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "wai wai "
   email: "meibanfa233@163.com"
-  url: "https://alessiofranceschi.me"
+  url: "https://windcar.netlify.app/"
 permalink: pretty
 permalink: /:title
 keywords: [podcast, jekyll]
